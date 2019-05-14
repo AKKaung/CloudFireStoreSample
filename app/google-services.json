@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350478036659",
+    "firebase_url": "https://cloudfirestoresample-ffcc7.firebaseio.com",
+    "project_id": "cloudfirestoresample-ffcc7",
+    "storage_bucket": "cloudfirestoresample-ffcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350478036659:android:9a0f0f06f5300ed8",
+        "android_client_info": {
+          "package_name": "com.asmaahamed.cloudfirestoresample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350478036659-bkbg210v1sg8e58ir2fblt7klsvmuhsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDieasMWf_KPx4Te_0lvK0hB3sWSzss-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350478036659-bkbg210v1sg8e58ir2fblt7klsvmuhsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
